@@ -1,4 +1,4 @@
-# Setting up public-key authentication using SSH on a Linux or OS X computer
+#### Setting up public-key authentication using SSH on a Linux or OS X computer
 
 Run below command in terminal to generate ssh key pair
 
@@ -44,7 +44,7 @@ Host c3ddb
  IdentityFile ~/.ssh/c3ddb
 
 ```
-If you have passphrase set then add the identity before doing ssh. If you didn't set up a passphrase the you can skip the first step. It is recommended to setup passphrase. 
+If you have passphrase set then add the identity before doing ssh (step #1 below). If you didn't set up a passphrase the you can skip the first step. It is recommended to setup passphrase. 
 ```
 # Step:1 
 [13:31 ac@localhost ~]$ssh-add .ssh/eofe
@@ -56,3 +56,4 @@ Last login: Wed May 25 13:28:48 2016 from fw-1-user-net-flrs.cictr.com
 [13:32 ac@eofe4 ~]$
 ```
 
+Happy Computing!
