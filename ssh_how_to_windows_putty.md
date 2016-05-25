@@ -1,4 +1,6 @@
-Download [putty.zip] (https://the.earth.li/~sgtatham/putty/latest/x86/putty.zip).
+Download [putty.zip] (https://the.earth.li/~sgtatham/putty/latest/x86/putty.zip). 
+
+putty download [page] (http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 
 If the above link is broken download the file putty.zip from this [repo] (https://github.com/ac427/help/blob/master/putty.zip)
 
