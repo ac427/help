@@ -4,8 +4,7 @@ If the above link is broken download the file putty.zip from this repo
 
 Unzip the files to your favorate location. ( lets say c:\putty\)
 
-
-Generate ssh-key pair
+### Generate ssh-key pair
 
   - Open PUTTYGEN.EXE and click the button generate
 
@@ -13,11 +12,14 @@ Generate ssh-key pair
 
   - Click "Save Public Key" and "Save Private Key" to your favorate location
   
-Login to eofe4  
+### Login to eofe4  
   
   - Open PUTTY.EXE 
   - Naviagate to Connection --> ssh -->auth to the left panel of the screen 
   - Browse your private key saved before 
   - Got to session -- > login and enter the host name ---> Open 
    
-  Screen Shots 
+  ### Screen Shots 
+![ssh gen keys](https://github.com/ac427/help/blob/master/screenshots/ssh_key_gen.png "Generate Keys")
+![ssh browse private key](https://github.com/ac427/help/blob/master/screenshots/browse_private_key.png "Browse private key")
+![ssh putty login ](https://github.com/ac427/help/blob/master/screenshots/login.png "Login")
