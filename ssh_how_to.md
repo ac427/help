@@ -1,4 +1,4 @@
-# Setting up public-key authentication using SSH on a Linux or OS X computer
+#### Setting up public-key authentication using SSH on a Linux or OS X computer
 
 Run below command in terminal to generate ssh key pair
 
