@@ -1,6 +1,6 @@
 Download [putty.zip] (https://the.earth.li/~sgtatham/putty/latest/x86/putty.zip).
 
-If the above link is broken download the file putty.zip from this repo
+If the above link is broken download the file putty.zip from this [repo] (https://github.com/ac427/help/blob/master/putty.zip)
 
 Unzip the files to your favorate location. ( lets say c:\putty\)
 
